@@ -32,7 +32,7 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+ru: &DEFAULT_RU
   nav:
     - title: "События"
       section: campaigns
