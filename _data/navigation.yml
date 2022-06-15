@@ -11,8 +11,6 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Events"
-      section: services
     - title: "About"
       section: about
     - title: "Team"
@@ -32,8 +30,6 @@ en-AU:
 # -------
 ru: &DEFAULT_RU
   nav:
-    - title: "События"
-      section: services
     - title: "О нас"
       section: about
     - title: "Команда"
