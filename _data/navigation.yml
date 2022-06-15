@@ -15,8 +15,6 @@ en: &DEFAULT_EN
       section: campaigns
     - title: "About"
       section: about
-    - title: "Timeline"
-      section: timeline
     - title: "Team"
       section: team
     - title: "Contact"
@@ -38,8 +36,6 @@ ru: &DEFAULT_RU
       section: campaigns
     - title: "О нас"
       section: about
-    - title: "История"
-      section: timeline
     - title: "Команда"
       section: team
     - title: "Контакты"
