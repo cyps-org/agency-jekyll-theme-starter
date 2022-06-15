@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Welcome to RPO “Center for Youth and Professional Sports”!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#campaigns"
+    buttonlink: "#services"
 
-  campaigns:
-    title: "Events"
-    text: "Current sport events"
-    section: campaigns
+  services:
+    title: "Services"
+    text: "Current sport services"
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -118,12 +118,12 @@ ru: &DEFAULT_RU
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
     button: Ver más
-    buttonlink: "#campaigns"
+    buttonlink: "#services"
 
-  campaigns:
-    title: "Мероприятия"
+  services:
+    title: "Сервисы"
     text: "Lorem ipsum"
-    section: campaigns
+    section: services
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
