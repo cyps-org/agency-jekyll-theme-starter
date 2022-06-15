@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to RPO “Center for Youth and Professional Sports”!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#campaigns"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+  campaigns:
+    title: "Events"
+    text: "Current sport events"
+    section: campaigns
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -168,17 +168,17 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+ru: &DEFAULT_RU
   header:
     title: ¡Bienvenido a nuestro Estudio!
     text: Es un placer conocerle
     button: Ver más
-    buttonlink: "#servicios"
+    buttonlink: "#campaigns"
 
-  services:
-    title: "Servicios"
+  campaigns:
+    title: "Мероприятия"
     text: "Lorem ipsum"
-    section: servicios
+    section: campaigns
     list:
       - title: "Comercio Electrónico"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -316,7 +316,5 @@ es: &DEFAULT_ES
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+ru-RU:
+  <<: *DEFAULT_RU
